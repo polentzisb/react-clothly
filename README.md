@@ -1,7 +1,7 @@
 # react-clothly
 Este proyecto fue realizado con el stack MERN, es un ecommerce de ropa. Cuenta con los componentes estándar de una web (navbar-slider-productos-newsletter-footer).
 Los productos se pueden filtrar por color-talla-valor-producto nuevo. Cuenta con un carro de compras que se actualiza al momento que los productos son seleccionados. Cuenta con un login que persiste al cambio de otras paginas/actualizaciones al igual que el carro de compras.<br> 
-Puedes logear con los siguientes datos: username: hola - password: 1hola567. Se utilizo styled components-redux-MUI-axios-entre otros.
+Puedes logear con los siguientes datos<br> username: hola <br> password: 1hola567. <br> Se utilizo styled components-redux-MUI-axios.
 
 Puedes ingresar en el siguiente link: https://clothly-fr.onrender.com/
 
