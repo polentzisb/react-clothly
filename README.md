@@ -5,7 +5,8 @@ En construcción:<br>
 -Register 
 -Opción de busqueda
 
-## Puedes logear con los siguientes datos: ## <br> Username: hola <br> Password: 1hola567. <br> 
+## Puedes logear con los siguientes datos:
+<br> Username: hola <br> Password: 1hola567. <br> 
 
 Puedes ingresar en el siguiente link: https://clothly-fr.onrender.com/
 
